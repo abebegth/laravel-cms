@@ -75,7 +75,10 @@
             </div>
         </nav>
 
+
+
         <main class="py-4">
+
             @auth
                 <div class="container">
                     <div class="row">
